@@ -1,7 +1,7 @@
 Thanks for downloading this theme!
 
 ## Live Visit
-[Click For Live Visit](https://learnwithfair.github.io/html-ecommerce-template-templatemo_417_grill/)
+[Click Here For Live Visit](https://learnwithfair.github.io/html-ecommerce-template-templatemo_417_grill/)
 
 ## For More Website Demo
 Visit -> https://themewagon.com/theme-tag/restaurant-template/
@@ -11,7 +11,7 @@ Visit -> https://themewagon.com/theme-tag/restaurant-template/
 |   |   |
 |:---:|:---:|
 |Home|About|
-|![Index](https://github.com/learnwithfair/html-ecommerce-template-templatemo_417_grill/blob/main/screenshot/home.png))|![About](https://github.com/learnwithfair/html-ecommerce-template-templatemo_417_grill/blob/main/screenshot/about.png)| 
+|![Index](https://github.com/learnwithfair/html-ecommerce-template-templatemo_417_grill/blob/main/screenshot/home.png)|![About](https://github.com/learnwithfair/html-ecommerce-template-templatemo_417_grill/blob/main/screenshot/about.png)| 
 |Product|Contact|
 |![Product](https://github.com/learnwithfair/html-ecommerce-template-templatemo_417_grill/blob/main/screenshot/product.png)| ![Contact](https://github.com/learnwithfair/html-ecommerce-template-templatemo_417_grill/blob/main/screenshot/contact.png)|
 ## Other Useful Links
